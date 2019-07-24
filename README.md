@@ -1,4 +1,4 @@
-# OpenAPI-implemtations
+### Implementations
 
 Below is a list of known tooling that implements the 3.0.0 specification. While support for the 3.0.0 specification matures, refer to the details of projects listed below for any notes about stability and roadmap. The process to improve the 3.x specification includes feedback from end-users and tooling creators. We strongly encourage draft tooling be made available for early users of OAS drafts.
 
@@ -28,18 +28,20 @@ These tools are not endorsed by the OAI.
 
 | Title          | Project Link | Language |Description                          |
 |----------------|--------------|----------|---------------------|
-| <a href="https://openapi-studio.com/Remain"> Remain OpenAPI Studio<a/> | <a href="https://remainsoftware.com/extranet/download-type/openapi-studio-download">OpenAPI Studio Direct download</a> <br> Or <a href="https://marketplace.eclipse.org/content/openapi-studio-rich-oas3-editor">OpenAPI Studio via Eclipse MarketPlace</a>  | Java | A user-friendly, visually rich studio supporting all features defined by the OpenAPI 3. Easy but powerful UI-based components creation, API testing, import, export, code generation and much more. 
+ <a href="https://openapi-studio.com/Remain"> Remain OpenAPI Studio<a/> | <a href="https://remainsoftware.com/extranet/download-type/openapi-studio-download">OpenAPI Studio Direct download</a> <br> Or <a href="https://marketplace.eclipse.org/content/openapi-studio-rich-oas3-editor">OpenAPI Studio via Eclipse MarketPlace</a>  | Java | A user-friendly, visually rich studio supporting all features defined by the OpenAPI 3. Easy but powerful UI-based components creation, API testing, import, export, code generation and much more. |
 | Apicurio Studio | [github/Apicurio/apicurio-studio](https://github.com/Apicurio/apicurio-studio) | Java/TypeScript | Web-Based **visual designer** for OpenAPI 2.0 and 3.0.0. |
 | KaiZen OpenAPI Editor | [github/RepreZen/KaiZen-OpenAPI-Editor](https://github.com/RepreZen/KaiZen-OpenAPI-Editor) | Java | Eclipse Editor for OpenAPI 2.0 and 3.0 |
 | RepreZen API Studio | [RepreZen.com/OpenAPI](https://www.reprezen.com/OpenAPI) | Java | Commercial desktop IDE for API design, documentation & development |
 | OpenAPI-gui | [github/Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) | Node.js | GUI / visual editor for creating and editing OpenAPI definitions |
 | SwaggerHub | [swaggerhub.com](https://swaggerhub.com) | | API Design and Documentation Platform, Built For Teams
 | swagger-editor | [github/swagger-api](https://github.com/swagger-api/swagger-editor) | JavaScript | Web-Based editor for creating, editing, validating and testing OpenAPI\Swagger definitions |
+|
 
 #### User Interfaces
 
 | Title          | Project Link | Language |Description                          |
 |----------------|--------------|----------|---------------------|
+ <a href="https://openapi-studio.com/Remain"> Remain OpenAPI Studio<a/> | <a href="https://remainsoftware.com/extranet/download-type/openapi-studio-download">OpenAPI Studio Direct download</a> <br> Or <a href="https://marketplace.eclipse.org/content/openapi-studio-rich-oas3-editor">OpenAPI Studio via Eclipse MarketPlace</a>  | Java | A user-friendly, visually rich studio supporting all features defined by the OpenAPI 3. Easy but powerful UI-based components creation, API testing, import, export, code generation and much more. |
 | openapi-viewer | [github/koumoul/openapi-viewer](https://github.com/koumoul-dev/openapi-viewer) | Vue.js | Browse and test a REST API described with the OpenAPI 3.0 Specification. |
 | swagger-ui | [github/swagger-api](https://github.com/swagger-api/swagger-UI) | JavaScript | Web-Based interface for visualizing and testing OpenAPI\Swagger definitions |
 | lincoln | [github/temando/open-api-renderer](https://github.com/temando/open-api-renderer)| React.js| A React renderer for OpenAPI v3 |
